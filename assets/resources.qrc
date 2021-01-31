@@ -1,0 +1,18 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="info">
+    <file alias="cover">cover-placeholder.png</file>
+    <file alias="eq-enable">eq-enable.svg</file>
+    <file alias="eq-disable">eq-disable.svg</file>
+</qresource>
+<qresource prefix="controls">
+    <file alias="add">add.png</file>
+    <file alias="remove">remove.png</file>
+    <file alias="play">play.png</file>
+    <file alias="pause">pause.png</file>
+    <file alias="stop">stop.png</file>
+    <file alias="next">next.png</file>
+    <file alias="previous">previous.png</file>
+    <file alias="volume-black">volume_black.png</file>
+    <file alias="volume-white">volume_white.png</file>
+</qresource>
+</RCC>
